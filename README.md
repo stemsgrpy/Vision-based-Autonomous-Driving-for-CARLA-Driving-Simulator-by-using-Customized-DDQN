@@ -79,14 +79,14 @@
     - **Vehicle Acceleration**  
 
 <p align="center">
-  <img src="/README/GrayscaleSegmentation0.png" alt="Description" width="120" height="120" border="0" />
-  <img src="/README/GrayscaleSegmentation1.png" alt="Description" width="120" README="120" border="0" />
-  <img src="/README/GrayscaleSegmentation2.png" alt="Description" width="120" README="120" border="0" />
-  <img src="/README/GrayscaleSegmentation3.png" alt="Description" width="120" height="120" border="0" />
-  <img src="/README/GrayscaleSegmentation4.png" alt="Description" width="120" README="120" border="0" />
-  <img src="/README/GrayscaleSegmentation5.png" alt="Description" width="120" height="120" border="0" />
-  <img src="/README/Image_npv.jpg" alt="Description" width="120" height="120" border="0" />
-  <img src="/README/Image_npa.jpg" alt="Description" width="120" height="120" border="0" />
+  <img src="/README/GrayscaleSegmentation0.png" alt="Description" width="100" height="100" border="0" />
+  <img src="/README/GrayscaleSegmentation1.png" alt="Description" width="100" README="100" border="0" />
+  <img src="/README/GrayscaleSegmentation2.png" alt="Description" width="100" README="100" border="0" />
+  <img src="/README/GrayscaleSegmentation3.png" alt="Description" width="100" height="100" border="0" />
+  <img src="/README/GrayscaleSegmentation4.png" alt="Description" width="100" README="100" border="0" />
+  <img src="/README/GrayscaleSegmentation5.png" alt="Description" width="100" height="100" border="0" />
+  <img src="/README/Image_npv.jpg" alt="Description" width="100" height="100" border="0" />
+  <img src="/README/Image_npa.jpg" alt="Description" width="100" height="100" border="0" />
 </p>
 <p align="center">
   Figure 6: Consecutive Samples of CARLA Simulator 
